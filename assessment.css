@@ -1,17 +1,19 @@
 body {
-  background-color: #04C6CB;
-  color: #FDFFFF;
-  width: 500px;
-  margin-right: auto;
-  margin-left : auto;
+    background-color: #f0ffff;
+    color: #066666;
+    width: 500px;
+    margin-right: auto; /* 両方autoにすると大体真ん中に来る*/
+    margin-left: auto;
 }
+
 button {
-  padding: 5px 20px;
-  background-color: #337AB7;
-  color: #FDFFFF;
-  border-color: #2E6DA4;
-  border-style: none;
+    padding: 5px 7px;
+    background-color: #066666;
+    color: rgb(255, 255, 255);
+    border-style: none;
 }
+
 input {
-  height: 20px;
+    height: 23px;
+    border-style: dashed;
 }
